@@ -23,8 +23,20 @@ const questions = [{
 
 }, {
     type: "input", 
-    message: "",
-    name: ""
+    message: "What License are you using for this project",
+    name: "License"
+}, {
+    type: "input", 
+    message: "Contact Info",
+    name: "Questions"
+}, {
+    type: "input", 
+    message: "What is your GitHub username",
+    name: "Username"
+}, {
+    type: "input", 
+    message: "What is your email address",
+    name: "Email"
 }
 
 
