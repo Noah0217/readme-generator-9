@@ -15,7 +15,7 @@ const questions = [{
     name: "Description"
 }, {
     type: "input",
-    message: "Table Of Contents",
+    message: "Table Of Contents (SKIP THIS)",
     name: "Table Of Contents"
 }, {
     type: "input",
@@ -24,14 +24,14 @@ const questions = [{
 }, {
     type: "input",
     message: "What Languages/Technologies were used to create this project",
-    name: "Languages/Technologies"
+    name: "Languages"
 }, {
     type: "input",
     message: "What License are you using for this project",
     name: "License"
 }, {
     type: "input",
-    message: "Contact Info",
+    message: "Contact Info (SKIP THIS)",
     name: "Questions"
 }, {
     type: "input",
@@ -53,7 +53,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err)
         } else {
-            console.log("Success")
+            console.log("Success your README file has been created!")
         }
     })
 };
