@@ -7,13 +7,13 @@ https://user-images.githubusercontent.com/84366215/129469770-e54ec847-9ff5-459d-
 
   # Description
   
-  A simple to use application, fill in the questions the command line asks about your project once done you'll have a finished and unique ReadMe file created for your projects needs.
+  A simple to use application, fill in the questions the command line asks about your project, once done you'll have a finished and unique ReadMe file created for your projects needs.
 
   # Table Of Contents
   * Installation
-    * Node.JS, Git Bash, VS Code
+    * Node.js, Git Bash, VS Code
   * Languages/Technologies
-    * Node.JS, JavaScript, Git Bash, VS Code
+    * Node.js, JavaScript, Git Bash, VS Code
   * License
     * None 
 
