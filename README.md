@@ -11,9 +11,9 @@ https://user-images.githubusercontent.com/84366215/129469770-e54ec847-9ff5-459d-
 
   # Table Of Contents
   * Installation
-    * Node.js, Git Bash, VS Code
+    * Node.JS, Git Bash, VS Code
   * Languages/Technologies
-    * Node.js, JavaScript, Git Bash, VS Code
+    * Node.JS, JavaScript, Git Bash, VS Code
   * License
     * None 
 
